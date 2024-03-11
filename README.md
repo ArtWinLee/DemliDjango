@@ -1,1 +1,1 @@
-# DemliDjango
+# Django Kahve sitesi 
